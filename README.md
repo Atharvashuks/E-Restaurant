@@ -1,6 +1,10 @@
-assects folder not included in src
+## Assects folder not included in src
 
+# Check live website here:
 
+[Click here](https://restrauntsite1.netlify.app/#awards)
+
+__________________________
 REACT INFO:
 
 
